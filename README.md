@@ -6,5 +6,10 @@
 
 <h4 align="left">📈 GitHub Stats</h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelf79&show_icons=true&locale=en&layout=compact" alt="michaelf79" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelf79&show_icons=true&locale=en" alt="michaelf79" /></p>
+<a href="https://github.com/michaelf79/michaelf79">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelf79&show_icons=true&locale=en&layout=compact" alt="michaelf79" />
+</a>
+
+<a href="https://github.com/michaelf79/michaelf79">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelf79&show_icons=true&locale=en" alt="michaelf79" />
+</a>
