@@ -1,4 +1,4 @@
-<h2>Hi! I'm Michael - a web developer from London.</h2>
+<h2>Hi!  I'm Michael - a web developer from London</h2>
 
 <h4 align="left">🛠 Stack</h4>
 
