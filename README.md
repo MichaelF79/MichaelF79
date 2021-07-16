@@ -26,4 +26,4 @@
 
 <h4 align="left">Let's Connect!</h4>
 
-[<img align="center" alt="linked-in" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" width="35" height="35"/>](https://www.linkedin.com/in/mjmferreira)
+[<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mjmferreira)
