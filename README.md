@@ -6,7 +6,7 @@
 
 <h4 align="left">Exposure To::</h4>
 
-<p align="left"> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> </a>
+<p align="left"> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25"/> </a>
 </p>
 
 
